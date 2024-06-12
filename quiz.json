@@ -1,0 +1,23 @@
+{
+    "quizz":[
+        {
+            "question":"Quelle est la capitale de la France ?",
+            "reponses":[
+                {"reponse":"Paris", "correct":true},
+                {"reponse":"Londres", "correct":false},
+                {"reponse":"Berlin", "correct":false},
+                {"reponse":"Madrid", "correct":false},
+                {"reponse":"Rome", "correct":false}
+            ]
+        },
+        {
+            "question":"Quelle est la capitale de l'Espagne ?",
+            "reponses":[
+                {"reponse":"Paris", "correct":false},
+                {"reponse":"Londres", "correct":false},
+                {"reponse":"Berlin", "correct":false},
+                {"reponse":"Madrid", "correct":true}
+            ]
+        }
+    ]
+}
